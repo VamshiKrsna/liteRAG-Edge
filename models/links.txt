@@ -1,0 +1,9 @@
+what models are we testing ? 
+
+1. llama 3.2 -->  1B
+2. Qwen 2.5 -->  1.5B
+3. DeepSeek-R1 -->  1.5B
+4. SmolLM2 -->  1.7B
+
+links to slm models : 
+

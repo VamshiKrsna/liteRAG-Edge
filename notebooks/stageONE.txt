@@ -1,0 +1,6 @@
+In the Stage 1 of our research, we will be : 
+
+- Benchmarking several SLMs, both full precision and quantized versions.
+- Compare RAM Usage, Quality, Precision 
+- we will mainly test on QA Datasets only 
+- Simulate on docker with resource constraint <2GB RAM.
