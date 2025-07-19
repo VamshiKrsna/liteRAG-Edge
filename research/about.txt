@@ -1,1 +1,3 @@
 this directory contains all research notebooks 
+
+will research on 5-8 models

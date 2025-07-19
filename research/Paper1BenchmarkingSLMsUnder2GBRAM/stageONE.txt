@@ -1,0 +1,18 @@
+In the Stage 1 of our research, we will be : 
+
+- Benchmarking several SLMs, both full precision and quantized versions.
+- Compare RAM Usage, Quality, Precision 
+- we will mainly test on QA Datasets only 
+- Simulate on docker with resource constraint <2GB RAM.
+- will research on 5-8 models mainly (desirable) 
+
+mainstream llms 
+- llama 3 1b, 3b, 8b 
+- phi 3.5 mini 3.8b 
+- qwen2 (0.5b, 1b, 7b) 
+- mistral small (2.7b - 7b)
+- tinyllama 1.1b 
+- gemma 2b-9b 
+
+tools used - llama cpp python , ctransformers  
+
